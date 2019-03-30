@@ -1,3 +1,3 @@
 # React-Native-WhatsApp-Clone
-Open to contributions
+Feel free to open a pull request
 
